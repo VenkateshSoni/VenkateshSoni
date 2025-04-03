@@ -1,8 +1,3 @@
-Absolutely! Here's a polished and professional version of your GitHub profile `README.md`, with all your additions and ideas creatively integrated:
-
----
-
-```markdown
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -65,4 +60,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
