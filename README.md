@@ -4,7 +4,6 @@
          width="45" />, I'm Venkatesh Soni</h1>
          
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VenkateshSoni" alt="VenkateshSoni" /> </p>
-<br />
 
 ## 🚀 About Me
 
