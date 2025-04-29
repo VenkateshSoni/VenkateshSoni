@@ -14,7 +14,7 @@ Currently, I'm diving deep into:
 - Exploring **agentic retrieval-augmented generation (RAG)** pipelines
 - Prototyping scalable AI solutions for **enterprise platforms**
 
-I love turning ideas into production-grade ML systems—and collaborating with fellow builders, researchers, and product minds!
+I love turning ideas into production-grade AI/ML systems—and collaborating with fellow builders, researchers, and product minds!
 
 ---
 
