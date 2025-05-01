@@ -11,8 +11,7 @@ I'm a **Data & AI Consultant** passionate about transforming data into business 
 
 Currently, I'm diving deep into:
 - Building **advanced GenAI applications**
-- Exploring **agentic retrieval-augmented generation (RAG)** pipelines
-- Prototyping scalable AI solutions for **enterprise platforms**
+- Exploring **agentic AI** pipelines
 
 I love turning ideas into production-grade AI/ML systems—and collaborating with fellow builders, researchers, and product minds!
 
