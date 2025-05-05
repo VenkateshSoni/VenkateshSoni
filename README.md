@@ -20,7 +20,7 @@ I love turning ideas into production-grade AI/ML systems—and collaborating wit
 ## 🔧 Technologies & Expertise
 
 - **Machine Learning / Deep Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
-- **GenAI & NLP**: LLaVA, Transformers, HuggingFace, LangChain, RAG
+- **GenAI & NLP**: LLaVA, Transformers, HuggingFace, LangChain, LangGraph, RAG
 - **Computer Vision**: Object detection, image captioning, classification, OCR, DocAI
 - **Deployment**: Streamlit, Flask, Docker, FastAPI
 - **Cloud**: Azure (Microsoft Certified Data Scientist Associate), Amazon SageMaker
