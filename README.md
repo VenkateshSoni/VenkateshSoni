@@ -22,7 +22,7 @@ I love turning ideas into production-grade AI/ML systems—and collaborating wit
 - **Machine Learning / Deep Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
 - **GenAI & NLP**: LLaVA, Transformers, HuggingFace, LangChain, LangGraph, RAG
 - **Computer Vision**: Object detection, image captioning, classification, OCR, DocAI, Edge Detection
-- **Deployment**: Streamlit, Flask, Docker, FastAPI, Azure ML Studio
+- **Deployment**: Streamlit, Flask, Docker, FastAPI
 - **Cloud**: Azure (Microsoft Certified Data Scientist Associate), Amazon SageMaker
 - **Languages**: Python, C++
 - **Databases**: MySQL, MongoDB, Pinecone, Milvus, ChromaDB, Qdrant
