@@ -10,8 +10,8 @@
 I'm a **Data & AI Consultant** passionate about transforming data into business value. With a strong foundation in machine learning, deep learning, natural language processing, and computer vision, I specialize in designing and delivering innovative AI solutions. My experience spans leading impactful projects across diverse domains, always with a focus on solving real-world problems and driving measurable outcomes.
 
 Currently, I'm diving deep into:
-- Building **advanced GenAI applications**
-- Exploring **agentic AI** pipelines
+- Building **Advanced GenAI applications**
+- Exploring **Agentic AI** pipelines
 
 I love turning ideas into production-grade AI/ML systems—and collaborating with fellow builders, researchers, and product minds!
 
@@ -21,10 +21,11 @@ I love turning ideas into production-grade AI/ML systems—and collaborating wit
 
 - **Machine Learning / Deep Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
 - **GenAI & NLP**: LLaVA, Transformers, HuggingFace, LangChain, LangGraph, RAG
-- **Computer Vision**: Object detection, image captioning, classification, OCR, DocAI
-- **Deployment**: Streamlit, Flask, Docker, FastAPI
+- **Computer Vision**: Object detection, image captioning, classification, OCR, DocAI, Edge Detection
+- **Deployment**: Streamlit, Flask, Docker, FastAPI, Azure ML Studio
 - **Cloud**: Azure (Microsoft Certified Data Scientist Associate), Amazon SageMaker
 - **Languages**: Python, C++
+- **Databases**: MySQL, MongoDB, Pinecone, Milvus, ChromaDB, Qdrant
 
 ---
 
